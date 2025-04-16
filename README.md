@@ -9,7 +9,7 @@ Coverly is an AI-powered application that generates personalized cover letters b
 5. Generating a tailored cover letter that highlights your relevant skills and experience
 
 ## Run App Online
-Link: 
+Link: https://coverly-job-specific-ai-cover-letter-generator.streamlit.app/
 
 ## Screenshots
 ![Application Interface](imgs/cover-letter-generator-project1.png)
