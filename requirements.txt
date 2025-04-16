@@ -6,3 +6,5 @@ selenium==4.21.0
 streamlit==1.35.0
 pandas==2.2.3
 python-dotenv==1.0.0
+pypdf
+
