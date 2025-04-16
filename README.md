@@ -1,0 +1,1 @@
+# Coverly-Job-Specific-AI-Cover-Letter-Generator
