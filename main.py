@@ -8,7 +8,6 @@ from utils import clean_text, validate_url
 
 def create_streamlit_app(llm, clean_text):
     st.title("🧑‍💻 Coverly: Your Job Specific AI Cover Letter Generator")
-    st.markdown("**Author Name:** Apoorv Dhaygude  \n**NUID:** 002207325")
     url_input = st.text_input("Enter job posting URL:", placeholder="e.g. https://careers.coca-colacompany.com/job/20698954/data-scientist-ai-ml-sofia-bg/")
     pdf_input = st.file_uploader('Choose your Resume (in .pdf format):', type="pdf")
     if pdf_input:
