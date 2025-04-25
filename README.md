@@ -18,14 +18,6 @@ Link: https://coverly-job-specific-ai-cover-letter-generator.streamlit.app/
 ## Architecture Diagram
 ![Architecture Diagram](imgs/architecture.png)
 
-## Technology Stack
-
-- **LLM**: LLaMA 3.3 (70B parameter model) via GROQ API
-- **Framework**: LangChain for LLM interactions and document processing
-- **Frontend**: Streamlit for the user interface
-- **Document Processing**: 
-  - WebBaseLoader for job description extraction
-  - PyPDFLoader for resume parsing
 
 ## Key Features
 
@@ -35,7 +27,12 @@ Link: https://coverly-job-specific-ai-cover-letter-generator.streamlit.app/
 - **User-Friendly Interface**: Simple Streamlit UI requires minimal input from users
 - **Token Usage Metrics**: Provides transparency about computational resources used
 
+## Team Contribution
 
+- **LLM**: LLaMA 3.3 (70B parameter model) via GROQ API - **Apoorv Dhaygude**
+- **Framework**: LangChain for LLM interactions and document processing - **Apoorv Dhaygude**
+- **Frontend**: Streamlit for the user interface - **Chinmay Deshpande**
+- **Document Processing**:  WebBaseLoader for job description extraction & PyPDFLoader for resume parsing - **Chinmay Deshpande**
 ---
 
 Created by **Apoorv Dhaygude** (NUID: 002207325) & **Chinmay Deshpande** (NUID: 002859266)
