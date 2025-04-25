@@ -38,5 +38,5 @@ Link: https://coverly-job-specific-ai-cover-letter-generator.streamlit.app/
 
 ---
 
-Created by Apoorv Dhaygude (NUID: 002207325) & Chinmay Deshpande (NUID: 002859266)
+Created by **Apoorv Dhaygude** (NUID: 002207325) & **Chinmay Deshpande** (NUID: 002859266)
    
